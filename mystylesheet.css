@@ -1,0 +1,7 @@
+@charset "utf-8";
+#div1 {
+	background-image: url("");
+	height: 1010px;
+	width: 1900px;
+	cursor: url(mycustommousefinal.cur),default
+}

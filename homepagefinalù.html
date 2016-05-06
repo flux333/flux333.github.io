@@ -1,0 +1,228 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Documento senza titolo</title>
+<link href="yoyo.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<script>
+
+// Mouseover/ Click sound effect- by JavaScript Kit (www.javascriptkit.com)
+// Visit JavaScript Kit at http://www.javascriptkit.com/ for full source code
+
+//** Usage: Instantiate script by calling: var uniquevar=createsoundbite("soundfile1", "fallbackfile2", "fallebacksound3", etc)
+//** Call: uniquevar.playclip() to play sound
+
+var html5_audiotypes={ //define list of audio file extensions and their associated audio types. Add to it if your specified audio file isn't on this list:
+	"mp3": "audio/mpeg",
+	
+}
+
+function createsoundbite(sound){
+	var html5audio=document.createElement('audio')
+	if (html5audio.canPlayType){ //check support for HTML5 audio
+		for (var i=0; i<arguments.length; i++){
+			var sourceel=document.createElement('source')
+			sourceel.setAttribute('src', arguments[i])
+			if (arguments[i].match(/\.(\w+)$/i))
+				sourceel.setAttribute('type', html5_audiotypes[RegExp.$1])
+			html5audio.appendChild(sourceel)
+		}
+		html5audio.load()
+		html5audio.playclip=function(){
+			html5audio.pause()
+			html5audio.currentTime=0
+			html5audio.play()
+		}
+		return html5audio
+	}
+	else{
+		return {playclip:function(){throw new Error("Your browser doesn't support HTML5 audio unfortunately")}}
+	}
+}
+
+//Initialize two sound clips with 1 fallback file each:
+
+var mouseoversound=createsoundbite("rollover_1.mp3" )
+var clicksound=createsoundbite("multimedia_button_click_012.mp3")
+
+</script>
+</head>
+<style type="text/css">
+body {
+	background-image: url(fonto.png) ;
+	width:900px;
+	background-color: #FFFFFF;
+	cursor: url(cursor/mycustommousefinal.cur),default;
+	
+
+}
+body,td,th {
+	color: #000000;
+	cursor: url(cursor/mycustommousefinal.cur),default;
+}
+span.dropt {border-bottom: thick ; background:trasparent;}
+span.dropt:hover {text-decoration: none;  background: none; z-index: 6; }
+span.dropt span {position: static; left: -9999px;
+9999px;
+  margin: 20px 0 0 0px; padding: 3px 3px 3px 3px;
+  border-style:solid; border-color:black; border-width:4px; z-index: 6;}
+span.dropt:hover span {left: 2%; background:trasparent;} 
+span.dropt span {position: absolute; left: -9999px;
+  margin: 4px 0 0 0px; padding: 3px 3px 3px 3px; 
+  border-style:solid; border-color:trasparent; border-width:0px;}
+span.dropt:hover span {margin: 20px 0 0 170px;  background: trasparent; z-index:6;} 
+
+</style>
+
+<body onLoad="MM_preloadImages('skitso-gia-table-101color.png','skitso-gia-webelefant1.png','skitso-gia-web-3senzalineecolororo.png','Senza-titolo-coloririri.png','skitso-gia-web-4COLORIRIR.png')">
+
+<div id="div1"><table width="925" border="1">
+  <tbody>
+    <tr>
+      <th width="65" rowspan="3" scope="col" align="left"><style type="text/css">
+
+#coolmenu{
+border: 0px solid black;
+width: 80;
+height;
+
+}
+
+#coolmenu a{
+font: bold 10px Verdana;
+padding:55px;
+padding-left:20px;
+display: block;
+width: 100%;
+color:white;
+text-decoration: none;
+border-bottom: 0px solid black;
+cursor: url(cursor/mycustommousefinal.cur),default;
+}
+
+html>body #coolmenu a{ /*Non IE rule*/
+width: auto;
+}
+
+#coolmenu a:hover{
+color: black ;
+}
+
+#tabledescription{
+width: 100%;
+height: 3em;
+padding: 2px;
+filter:alpha(opacity=0);
+opacity:0;
+color: black ;
+align-items: center
+}
+
+</style>
+
+<script type="text/javascript">
+
+var baseopacity=0
+
+function showtext(thetext){
+if (!document.getElementById) 
+return
+textcontainerobj=document.getElementById("tabledescription")
+browserdetect=textcontainerobj.filters? "ie" : "standard"
+instantset(baseopacity)
+textcontainerobj.innerHTML=thetext
+highlighting=setInterval("gradualfade(textcontainerobj)",50)
+}
+
+function hidetext(){
+cleartimer()
+instantset(baseopacity)
+}
+
+function instantset(degree){
+if (browserdetect=="ie")
+textcontainerobj.filters.alpha.opacity=degree
+else
+textcontainerobj.style.opacity=degree
+textcontainerobj.innerHTML=""
+}
+
+function cleartimer(){
+if (window.highlighting) clearInterval(highlighting)
+}
+
+function gradualfade(cur2){
+if (browserdetect=="standard" && cur2.style.opacity<1)
+cur2.style.opacity=Math.min(parseFloat(cur2.style.opacity)+0.2, 1)
+else if (browserdetect=="ie" && cur2.filters.alpha.opacity<100)
+cur2.filters.alpha.opacity+=20
+else if (window.highlighting)
+clearInterval(highlighting)
+}
+
+</script>
+
+<div id="coolmenu">
+
+<a href="cursor/galleryphotos.html" onclick= "clicksound.playclip()" onMouseover="showtext('Photos and video'),mouseoversound.playclip()" onMouseout="hidetext()">Photos</a>
+<a href="http://www.javascriptkit.com/cutpastejava.shtml" onclick= "clicksound.playclip()" onMouseover="showtext('Paintings , Graffiti , glass engravings'),mouseoversound.playclip()" onMouseout="hidetext()">Paintings and Other</a>
+<a href="cursor/customcursor333.html" onclick= "clicksound.playclip()" onMouseover="showtext('Digital art , Stickers , Posters'),mouseoversound.playclip()" onMouseout="hidetext()">Digital Stuff</a>
+<a href="http://www.codingforums.com" onclick= "clicksound.playclip()" onMouseover="showtext('Music'),mouseoversound.playclip()" onMouseout="hidetext()">Music</a>
+<a href="http://www.dynamicdrive.com" onclick= "clicksound.playclip()" onMouseover="showtext('Contact , Facebook , Tumblr'),mouseoversound.playclip()" onMouseout="hidetext()">Contact Us</a>
+<a href="http://www.dynamicdrive.com"  onclick= "clicksound.playclip()" onMouseover="showtext('Credits , Extras'),mouseoversound.playclip()" onMouseout="hidetext()">Extras</a>
+
+<div id ="tabledescription" ></div>
+</div></th>
+     <th width="179" rowspan="3" scope="col"><a href="cursor/galleryphotos.html" onMouseOut="MM_swapImgRestore()" onclick= "clicksound.playclip()" onMouseOver="MM_swapImage('Image1','','skitso-gia-table-101color.png',1),mouseoversound.playclip()"> <span class="dropt" title="Photos and Video"><img src="skitso-gia-table-101sl.png" width="110" alt="" height="386" id="Image1"><span style="width:200px;"></span>
+</span></a></th>
+
+      
+      <th width="427" rowspan="3" scope="col"><a href="#" onMouseOut="MM_swapImgRestore()"  onclick= "clicksound.playclip()" onMouseOver="MM_swapImage('Image2','','skitso-gia-webelefant1.png',1),mouseoversound.playclip()"><span class="dropt" title="Paintings , Graffiti , glass engravings"><img src="skitso-gia-web-202senzalinee.png" alt="" width="336" id="Image2"><span style="width:200px;"></span>
+</span> 
+  </a></th>
+        
+      
+      <th width="193" height="422" scope="col"><a href="cursor/customcursor333.html" onMouseOut="MM_swapImgRestore()" onclick= "clicksound.playclip()" onMouseOver="MM_swapImage('Image3','','skitso-gia-web-3senzalineecolororo.png',1),mouseoversound.playclip()"><span class="dropt" title="Digital stuff"><img src="skitso-gia-web-3senzalinee.png" alt="" width="58" height="154" id="Image3"><span style="width:200px;"></span>
+</span></a></th>
+      <th width="0" rowspan="3" scope="col"></th>
+      <th width="165" scope="col"><a href="#" onclick= "clicksound.playclip()"  onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image4','','Senza-titolo-coloririri.png',1),mouseoversound.playclip()" ><span class="dropt" title="Credits and Extras"><img src="Senza-titolo-wall.png" alt="" width="165" height="254" id="Image4"><span style="width:200px;"></span>
+</span></a></th>
+    </tr>
+    <tr>
+      <th height="21" scope="col">&nbsp;</th>
+      <th scope="col">&nbsp;</th>
+    </tr>
+    <tr>
+      <th height="525" scope="col"><a href="#" onclick= "clicksound.playclip()" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image5','','Senza-titolo-1colororui.png',1),mouseoversound.playclip()"><span class="dropt" title="Music"><img src="salvanoi.png" alt="" width="119" height="163" id="Image5"><span style="width:200px;"></span>
+</span></a></th>
+      <th scope="col"><a href="#"  onclick= "clicksound.playclip()" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','skitso-gia-web-4COLORIRIR.png',1),mouseoversound.playclip()"><span class="dropt" title="Contact Us"><img src="skitso-gia-web-4senzalinee.png" alt="" width="115" height="197" id="Image6"><span style="width:200px;"></span>
+</span></a></th>
+    </tr>
+  </tbody>
+</table>
+</div>
+</body>
+</html>

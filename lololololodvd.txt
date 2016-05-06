@@ -1,0 +1,683 @@
+[04:15:59] ExpressUI  Log restarted (Date: 02/12/2016)
+[04:15:59] ExpressUI  Running Nero Vision Version: 7.0.8.100
+[04:16:02] DVDEngine  C:\PROGRAM FILES (X86)\NERO\NERO 10\NERO VISION\NERO.DVDENGINE\DVDENGINE.DLL
+[04:16:02] DVDEngine  Product Version: 7.0.6.1, File Version: 7.0.9.1, Interface Version: 4.11.0.1
+[04:16:29] ExpressUI  Burn process started by user.
+[04:16:29] ExpressUI  Destination: MATSHITA DVD-RAM UJ8A0AS 
+[04:16:29] ExpressUI  Directory for temporary files: C:\Users\User\AppData\Local\Temp
+[04:16:29] ExpressUI  Available hard disk space for temporary files: 134049.531 MB
+[04:16:29] ExpressUI  ------<Nero Vision Project Information>--------
+[04:16:29] ExpressUI  --- Project type: DVD-Video
+[04:16:29] ExpressUI  --- Project video options ---
+[04:16:29] ExpressUI  Video mode: PAL
+[04:16:29] ExpressUI  Aspect ratio: Automatic
+[04:16:29] ExpressUI  Quality: Automatic (fit to disc) (5073 kbit/s)
+[04:16:29] ExpressUI  Resolution: Automatic
+[04:16:29] ExpressUI  Sample format: Automatic
+[04:16:29] ExpressUI  Video format: MPEG-2
+[04:16:29] ExpressUI  Audio format: Automatic
+[04:16:29] ExpressUI  Encoding mode: Fast Encoding (1-Pass)
+[04:16:29] ExpressUI  SmartEncoding: Enable
+[04:16:29] ExpressUI  --- Project space information ---
+[04:16:29] ExpressUI  Media type: DVD (4700000000 bytes maximum capacity)
+[04:16:29] ExpressUI  Total space used: 0.18 out of 4.38 GB (Quality: Excellent)
+[04:16:29] ExpressUI  Space used for menus: 46.1 out of 1024.0 MB
+[04:16:29] ExpressUI  --- Project contents ---
+[04:16:29] ExpressUI  Audio format: Automatic
+[04:16:29] ExpressUI  Sample format: Automatic
+[04:16:29] ExpressUI  Encoding mode: Fast Encoding (1-Pass)
+[04:16:29] ExpressUI  SmartEncoding: Enable
+[04:16:29] ExpressUI  Number of titles: 3
+[04:16:29] ExpressUI  1. introfodas.mp4 (Video, 0h 00m 20s)
+[04:16:29] ExpressUI  - Video mode: PAL
+[04:16:29] ExpressUI  - Aspect ratio: 4:3
+[04:16:29] ExpressUI  - Quality: Custom (8000 kbit/s)
+[04:16:29] ExpressUI  - Resolution: 704 x 576 (D1)
+[04:16:29] ExpressUI  - Sample format: Progressive
+[04:16:29] ExpressUI  - Video format: MPEG-2
+[04:16:29] ExpressUI  - Audio format: Dolby Digital (AC-3) 2.0
+[04:16:29] ExpressUI  - Encoding mode: Fast Encoding (1-Pass)
+[04:16:29] ExpressUI  - Audio SmartEncoding ratio: 0.0 %
+[04:16:29] ExpressUI  - Video SmartEncoding ratio: 0.0 %
+[04:16:29] ExpressUI  2. Sequenza 01_1.avi (Video, 0h 01m 29s)
+[04:16:29] ExpressUI  - Video mode: PAL
+[04:16:29] ExpressUI  - Aspect ratio: 4:3
+[04:16:29] ExpressUI  - Quality: Custom (8000 kbit/s)
+[04:16:29] ExpressUI  - Resolution: 720 x 576 (CCIR-601 D1)
+[04:16:29] ExpressUI  - Sample format: Progressive
+[04:16:29] ExpressUI  - Video format: MPEG-2
+[04:16:29] ExpressUI  - Audio format: Dolby Digital (AC-3) 2.0
+[04:16:29] ExpressUI  - Encoding mode: Fast Encoding (1-Pass)
+[04:16:29] ExpressUI  - Audio SmartEncoding ratio: 0.0 %
+[04:16:29] ExpressUI  - Video SmartEncoding ratio: 0.0 %
+[04:16:29] ExpressUI  3. fodas333.mp4 (Video, 0h 00m 20s)
+[04:16:29] ExpressUI  - Video mode: PAL
+[04:16:29] ExpressUI  - Aspect ratio: 4:3
+[04:16:29] ExpressUI  - Quality: Custom (8000 kbit/s)
+[04:16:29] ExpressUI  - Resolution: 704 x 576 (D1)
+[04:16:29] ExpressUI  - Sample format: Progressive
+[04:16:29] ExpressUI  - Video format: MPEG-2
+[04:16:29] ExpressUI  - Audio format: Dolby Digital (AC-3) 2.0
+[04:16:29] ExpressUI  - Encoding mode: Fast Encoding (1-Pass)
+[04:16:29] ExpressUI  - Audio SmartEncoding ratio: 0.0 %
+[04:16:29] ExpressUI  - Video SmartEncoding ratio: 0.0 %
+[04:16:29] ExpressUI  Video disc menu: Title and chapter menus
+[04:16:29] ExpressUI  --------<End of Project Information>----------
+[04:16:29] ExpressUI  ------Recording Parameters------
+[04:16:29] ExpressUI  Book Type: 0
+[04:16:29] ExpressUI  Destination Device: MATSHITA DVD-RAM UJ8A0AS  (Capabilities: 002AC51F)
+[04:16:29] ExpressUI  Recording Flags: 76
+[04:16:29] ExpressUI  Recording Speed: 2770
+[04:16:29] ExpressUI  Volume Name: DVD
+[04:16:29] ExpressUI  Burn-at-once flag: 0
+[04:16:29] ExpressUI  Fast Update allowed: 0
+[04:16:29] ExpressUI  --End of recording parameters---
+[04:16:30] NeroVision Τα αρχεία DVD-Video ταξινομήθηκαν
+[04:16:30] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 25000 , total for taskbar : 100000 , current for taskbar : 25000 
+[04:16:30] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:16:30] NeroVision Δημιουργία καταλόγων
+[04:16:30] NeroVision Ολοκληρώνεται
+[04:16:30] NeroVision Δημιουργία καταλόγων
+[04:16:30] NeroVision Έλεγχος δίσκων
+[04:16:30] NeroVision Έναρξη caching των αρχείων
+[04:16:30] NeroVision Caching των αρχείων ολοκληρώθηκε
+[04:16:30] NeroVision Έναρξη εγγραφής στα 2x (2.770 KB/s)
+[04:16:30] NeroVision Γρήγορη διαμόρφωση DVD-RW
+[04:16:37] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 1999 , total for taskbar : 100000 , current for taskbar : 1999 
+[04:16:42] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 10000 , total for taskbar : 100000 , current for taskbar : 10000 
+[04:16:44] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 15999 , total for taskbar : 100000 , current for taskbar : 15999 
+[04:16:46] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 20999 , total for taskbar : 100000 , current for taskbar : 20999 
+[04:16:48] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 25000 , total for taskbar : 100000 , current for taskbar : 25000 
+[04:16:52] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 25999 , total for taskbar : 100000 , current for taskbar : 25999 
+[04:16:54] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 27000 , total for taskbar : 100000 , current for taskbar : 27000 
+[04:16:56] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 28000 , total for taskbar : 100000 , current for taskbar : 28000 
+[04:16:58] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 30000 , total for taskbar : 100000 , current for taskbar : 30000 
+[04:17:00] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 31000 , total for taskbar : 100000 , current for taskbar : 31000 
+[04:17:02] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 31999 , total for taskbar : 100000 , current for taskbar : 31999 
+[04:17:04] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 33000 , total for taskbar : 100000 , current for taskbar : 33000 
+[04:17:06] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 34000 , total for taskbar : 100000 , current for taskbar : 34000 
+[04:17:08] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 34999 , total for taskbar : 100000 , current for taskbar : 34999 
+[04:17:12] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 36000 , total for taskbar : 100000 , current for taskbar : 36000 
+[04:17:14] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 37000 , total for taskbar : 100000 , current for taskbar : 37000 
+[04:17:16] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 37999 , total for taskbar : 100000 , current for taskbar : 37999 
+[04:17:18] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 38999 , total for taskbar : 100000 , current for taskbar : 38999 
+[04:17:22] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 40000 , total for taskbar : 100000 , current for taskbar : 40000 
+[04:17:24] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 40999 , total for taskbar : 100000 , current for taskbar : 40999 
+[04:17:26] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 47999 , total for taskbar : 100000 , current for taskbar : 47999 
+[04:17:28] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 52999 , total for taskbar : 100000 , current for taskbar : 52999 
+[04:17:32] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 72000 , total for taskbar : 100000 , current for taskbar : 72000 
+[04:17:34] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:17:38] NeroVision Έναρξη εγγραφής
+[04:17:38] NeroVision Έναρξη εγγραφής
+[04:17:38] DVDEngine  BEGIN: VMGM_VOBS - Write
+[04:17:38] DVDEngine  ...RBP=0, count=34,629,632 bytes
+[04:17:38] DVDEngine  ...succeeded
+[04:17:38] DVDEngine  END: VMGM_VOBS - Write
+[04:17:38] DVDEngine  BEGIN: VTSTT_VOBS#1 - Write
+[04:17:38] DVDEngine  ...RBP=0, count=15,413,248 bytes
+[04:17:38] DVDEngine  ...succeeded
+[04:17:38] DVDEngine  END: VTSTT_VOBS#1 - Write
+[04:17:38] DVDEngine  BEGIN: VTSTT_VOBS#2 - Write
+[04:17:38] DVDEngine  ...RBP=0, count=77,871,104 bytes
+[04:17:42] NeroVision Εγγραφή τραγουδιών
+[04:17:54] DVDEngine  ...succeeded
+[04:17:54] DVDEngine  END: VTSTT_VOBS#2 - Write
+[04:17:54] DVDEngine  BEGIN: VTSTT_VOBS#3 - Write
+[04:17:54] DVDEngine  ...RBP=0, count=15,362,048 bytes
+[04:18:00] DVDEngine  ...succeeded
+[04:18:00] DVDEngine  END: VTSTT_VOBS#3 - Write
+[04:18:30] NeroVision Εγγραφή του lead-out
+[04:18:30] NeroVision Εγγραφή τέλους...
+[04:18:30] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:18:32] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:18:35] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:18:37] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:18:39] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:18:41] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:18:43] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:18:45] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:18:47] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:18:49] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:18:51] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:18:53] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:18:55] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:18:57] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:18:59] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:19:01] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:19:03] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:19:05] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:19:07] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:19:09] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:19:11] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:19:13] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:19:15] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:19:15] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:19:15] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:19:15] NeroVision Η εγγραφή ολοκληρώθηκε με επιτυχία στα 2x (2.770 KB/s)
+[04:19:15] ExpressUI  Taskbar progress : total in burn page : 100000 , current progress in burn page : 100000 , total for taskbar : 100000 , current for taskbar : 100000 
+[04:19:17] NeroVision Ολοκληρώνεται
+[04:19:17] NeroVision Process information:
+[04:19:21] NeroVision --------------------
+[04:19:21] NeroVision Address     Version                  Module name
+[04:19:21] NeroVision -----------------------------------------------------
+[04:19:21] NeroVision 0x002A0000  10.0.9.100               C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NeroAPIFiles\uNeroErr.dll
+[04:19:21] NeroVision 0x00300000  1.0.3.0                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\SolutionExplorer.dll
+[04:19:21] NeroVision 0x00320000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\HDCC.dll
+[04:19:21] NeroVision 0x00400000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NeroVision.exe
+[04:19:21] NeroVision 0x00500000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\AMCLib.dll
+[04:19:21] NeroVision 0x00560000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\MMTools.dll
+[04:19:21] NeroVision 0x00610000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\Painter.dll
+[04:19:21] NeroVision 0x006E0000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\GCCore.dll
+[04:19:21] NeroVision 0x00770000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\GCLib.dll
+[04:19:21] NeroVision 0x00810000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\AMCDOM.dll
+[04:19:21] NeroVision 0x00940000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\AMCDocBase.dll
+[04:19:21] NeroVision 0x00BE0000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\AMCUIBase.dll
+[04:19:21] NeroVision 0x00DF0000  10.0.9.100               C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NeroAPIFiles\uNeroFSStandalone.dll
+[04:19:21] NeroVision 0x028C0000  1.0.6.0                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\Nero.FormatOptionsLib\FormatOptionsLib.dll
+[04:19:21] NeroVision 0x02E10000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\AMCUIBase_el-GR.NLS
+[04:19:21] NeroVision 0x02E40000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NeroVision_el-GR.NLS
+[04:19:21] NeroVision 0x02EE0000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NeroVisionRes.bir
+[04:19:21] NeroVision 0x03B20000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\ExpressDoc.dll
+[04:19:21] NeroVision 0x03B60000  1.4.17.1                 C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NEE\EffectMgr.dll
+[04:19:21] NeroVision 0x03FA0000  2.0.4.7                  C:\Program Files (x86)\Common Files\Nero\AdvrCntr5\AdvrCntr5.dll
+[04:19:21] NeroVision 0x04A10000  10.0.0.0                 C:\Program Files (x86)\Nero\Nero 10\Nero Vision\SplashScreen.dll
+[04:19:21] NeroVision 0x04C00000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\ExpressUI_el-GR.NLS
+[04:19:21] NeroVision 0x04E40000  2.2.87.15                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\SMC\uNeroMediaCon.DLL
+[04:19:21] NeroVision 0x06380000  1.4.17.1                 C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NEE\NeEE.dll
+[04:19:21] NeroVision 0x066D0000  1.4.9.1                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NEE\plug_ins\ClassicVFX.nfx
+[04:19:21] NeroVision 0x06A10000  5.0.2009.811             C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NEE\libiomp5md.dll
+[04:19:21] NeroVision 0x06AA0000  1.4.9.1                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NEE\plug_ins\CoolVFX.nfx
+[04:19:21] NeroVision 0x06B50000  1.4.9.1                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NEE\plug_ins\SimpleAFX.nfx
+[04:19:21] NeroVision 0x06CB0000  1.2.3.0                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\Nero3D\zlib1.dll
+[04:19:21] NeroVision 0x06CF0000  1.3.0.0                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\Nero3D\lib3ds-1.3.dll
+[04:19:21] NeroVision 0x06D30000  0.0.0.0                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\EditingProxy.dll
+[04:19:21] NeroVision 0x06D80000  4.0.0.0                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\Nero3D\Nero3DMenuEffects.dll
+[04:19:21] NeroVision 0x06E90000  1.9.0.0                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\Nero3D\iconv.dll
+[04:19:21] NeroVision 0x06F70000  6.0.0.0                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\Nero3D\cximageu.dll
+[04:19:21] NeroVision 0x070B0000  9.12.589.0               C:\Windows\system32\d3dx9_30.dll
+[04:19:21] NeroVision 0x07310000  2.7.2.0                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\Nero3D\libxml2.dll
+[04:19:21] NeroVision 0x07620000  8.15.10.2266             C:\Windows\system32\igdumdx32.dll
+[04:19:21] NeroVision 0x076C0000  8.15.10.2266             C:\Windows\system32\igdumd32.dll
+[04:19:21] NeroVision 0x07D60000  7.0.74.0                 C:\Windows\SysWOW64\imagxpr7.dll
+[04:19:21] NeroVision 0x07DE0000  7.0.495.0                C:\Windows\system32\ImagXR7.dll
+[04:19:21] NeroVision 0x07FB0000  10.0.9.100               C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NeroAPIFiles\uIMAGE.DLL
+[04:19:21] NeroVision 0x08040000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\GCFX_el-GR.NLS
+[04:19:21] NeroVision 0x080A0000  7.0.74.0                 C:\Windows\system32\ImagX7.dll
+[04:19:21] NeroVision 0x08460000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\DVDUI.dll
+[04:19:21] NeroVision 0x084E0000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\DVDUI_el-GR.NLS
+[04:19:21] NeroVision 0x08550000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NeroVideoFX_el-GR.nls
+[04:19:21] NeroVision 0x08780000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\DVDLib.dll
+[04:19:21] NeroVision 0x08980000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\GCFX.DLL
+[04:19:21] NeroVision 0x089E0000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NeVideoFX.dll
+[04:19:21] NeroVision 0x09700000  1.0.1.1                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NeroAPIFiles\DriveLocker.dll
+[04:19:21] NeroVision 0x09BF0000  10.0.9.100               C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NeroAPIFiles\uMMC.DLL
+[04:19:21] NeroVision 0x0C3E0000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NeroVideoFX.dll
+[04:19:21] NeroVision 0x0CB10000  1.0.10.0                 C:\Program Files (x86)\Nero\Nero 10\NeroContent\NeroContentLicenseCheck.dll
+[04:19:21] NeroVision 0x0D610000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\GCFilter.AX
+[04:19:21] NeroVision 0x0DC20000  2.0.50727.5485           C:\Windows\assembly\NativeImages_v2.0.50727_32\System\ef80bf7db724bb3ab5fea4c0e2117cae\System.ni.dll
+[04:19:21] NeroVision 0x0E5D0000  3.2.4.4                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\AdvrCntrProxy.dll
+[04:19:21] NeroVision 0x0E830000  3.2.2.0                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\OnlineServices\NOSProductRegistration.dll
+[04:19:21] NeroVision 0x0F340000  3.2.2.0                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\OnlineServices\NOSUsageStatistics.dll
+[04:19:21] NeroVision 0x0F450000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\ExpressUI.dll
+[04:19:21] NeroVision 0x0FAB0000  1.19.0.2                 C:\Program Files (x86)\Nero\Nero 10\Nero Vision\SMC\NeFramerate.ax
+[04:19:21] NeroVision 0x0FEF0000  3.3.15.0                 C:\Program Files (x86)\Nero\Nero 10\Nero Vision\PTT\NeroCaptureAPI.dll
+[04:19:21] NeroVision 0x0FF70000  3.3.15.0                 C:\Program Files (x86)\Nero\Nero 10\Nero Vision\PTT\plugins\CamcorderPlugin.dll
+[04:19:21] NeroVision 0x10000000  10.0.9.100               C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NeroAPIFiles\NeroAPIEngine.dll
+[04:19:21] NeroVision 0x11490000  3.3.15.0                 C:\Program Files (x86)\Nero\Nero 10\Nero Vision\PTT\plugins\AnalogTvPlugin.dll
+[04:19:21] NeroVision 0x11540000  3.3.15.0                 C:\Program Files (x86)\Nero\Nero 10\Nero Vision\PTT\plugins\DigitalTvPlugin.dll
+[04:19:21] NeroVision 0x127E0000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\DVDDoc.dll
+[04:19:21] NeroVision 0x13140000  5.1.7.0                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NFD\NeroFileDialogCF.dll
+[04:19:21] NeroVision 0x13190000  5.1.7.0                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NFD\NeroFileDialogVista.dll
+[04:19:21] NeroVision 0x13DA0000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\GCCapture.AX
+[04:19:21] NeroVision 0x15640000  7.0.6.1                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\Nero.DVDEngine\DVDEngine.dll
+[04:19:21] NeroVision 0x15FC0000  1.48.4.0                 C:\Program Files (x86)\Nero\Nero 10\Nero Vision\SMC\NeMP4Splitter.ax
+[04:19:21] NeroVision 0x18EA0000  1.4.9.1                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NEE\plug_ins\SimpleAFX_Language\SimpleAFX_el-GR.nls
+[04:19:21] NeroVision 0x1A280000  5.61.19.15               C:\Program Files (x86)\Nero\Nero 10\Nero Vision\SMC\NeVideo.ax
+[04:19:21] NeroVision 0x1C620000  1.4.9.1                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NEE\plug_ins\CoolVFX_Language\CoolVFX_el-GR.nls
+[04:19:21] NeroVision 0x1DDE0000  1.4.9.1                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NEE\plug_ins\ClassicVFX_Language\ClassicVFX_el-GR.nls
+[04:19:21] NeroVision 0x1E310000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NeColorCrct.dll
+[04:19:21] NeroVision 0x1E390000  2.1.66.3                 C:\Program Files (x86)\Nero\Nero 10\Nero Vision\SMC\NeMetadata.dll
+[04:19:21] NeroVision 0x20C00000  1.31.2.0                 C:\Program Files (x86)\Nero\Nero 10\Nero Vision\SMC\NeResize.ax
+[04:19:21] NeroVision 0x22180000  1.22.1.0                 C:\Program Files (x86)\Nero\Nero 10\Nero Vision\SMC\NeDeinterlace.ax
+[04:19:21] NeroVision 0x221C0000  1.22.0.1                 C:\Program Files (x86)\Nero\Nero 10\Nero Vision\SMC\NeColorspace.ax
+[04:19:21] NeroVision 0x22A20000  2.7.5.1                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\SMC\NeSoundProc.ax
+[04:19:21] NeroVision 0x61A90000  6.1.7601.17514           C:\Windows\system32\cscapi.dll
+[04:19:21] NeroVision 0x64190000  2.0.50727.5494           C:\Windows\assembly\NativeImages_v2.0.50727_32\System.Xml\d6204638b750d650b7cbb3278a5954eb\System.Xml.ni.dll
+[04:19:21] NeroVision 0x646D0000  6.1.7601.18222           C:\Windows\system32\SHDOCVW.dll
+[04:19:21] NeroVision 0x64810000  6.6.7601.19091           C:\Windows\SysWOW64\qedit.dll
+[04:19:21] NeroVision 0x64890000  12.0.7601.19091          C:\Windows\System32\mf.dll
+[04:19:21] NeroVision 0x64BE0000  6.1.7600.16385           C:\Windows\system32\D3DIM700.DLL
+[04:19:21] NeroVision 0x64DD0000  2.0.50727.5483           C:\Windows\assembly\NativeImages_v2.0.50727_32\System.Configuration\ae206eff0a9816475cd7dd3d680faa48\System.Configuration.ni.dll
+[04:19:21] NeroVision 0x653E0000  2.0.50727.5495           C:\Windows\assembly\NativeImages_v2.0.50727_32\System.Drawing\ca97db61d7b1564dd115248a1439194e\System.Drawing.ni.dll
+[04:19:21] NeroVision 0x65940000  6.1.7601.17514           C:\Windows\system32\PortableDeviceApi.dll
+[04:19:21] NeroVision 0x65A70000  6.1.7601.17514           C:\Windows\system32\mscms.dll
+[04:19:21] NeroVision 0x65AF0000  3.5.30729.5420           C:\Windows\assembly\NativeImages_v2.0.50727_32\System.Core\1a7ac37681b6a7991b95f280c48f7b52\System.Core.ni.dll
+[04:19:21] NeroVision 0x65D30000  6.1.7601.17514           C:\Windows\system32\NetworkExplorer.dll
+[04:19:21] NeroVision 0x65ED0000  6.1.7600.16385           C:\Windows\system32\icm32.dll
+[04:19:21] NeroVision 0x65F10000  2.0.50727.5420           C:\Windows\assembly\GAC_MSIL\mscorlib.resources\2.0.0.0_el_b77a5c561934e089\mscorlib.resources.dll
+[04:19:21] NeroVision 0x65F80000  11.0.9600.18212          C:\Windows\system32\ieframe.DLL
+[04:19:21] NeroVision 0x66BD0000  3.0.6920.5470            C:\Windows\assembly\NativeImages_v2.0.50727_32\PresentationFramewo#\dd34bf8bf03f3016c4998a9d6fe62f3c\PresentationFramework.ni.dll
+[04:19:21] NeroVision 0x679A0000  6.1.7600.16385           C:\Windows\system32\LINKINFO.dll
+[04:19:21] NeroVision 0x67A40000  6.1.7600.16385           C:\Windows\system32\sfc_os.DLL
+[04:19:21] NeroVision 0x67A50000  6.1.7600.16385           C:\Windows\SysWOW64\SFC.DLL
+[04:19:21] NeroVision 0x67F80000  6.1.7601.17514           C:\Windows\system32\EhStorAPI.dll
+[04:19:21] NeroVision 0x67FB0000  6.1.7600.16385           C:\Windows\system32\dsound.dll
+[04:19:21] NeroVision 0x68070000  6.1.7601.18912           C:\Windows\System32\davclnt.dll
+[04:19:21] NeroVision 0x68090000  6.1.7601.17514           C:\Windows\SysWOW64\actxprxy.dll
+[04:19:21] NeroVision 0x680E0000  7.0.7601.17514           C:\Windows\System32\StructuredQuery.dll
+[04:19:21] NeroVision 0x68140000  6.1.7600.16385           C:\Windows\system32\UIAutomationCore.dll
+[04:19:21] NeroVision 0x681D0000  6.1.7601.17514           C:\Windows\system32\SearchFolder.dll
+[04:19:21] NeroVision 0x68280000  6.2.9200.16492           C:\Windows\system32\WindowsCodecsExt.dll
+[04:19:21] NeroVision 0x682C0000  9.0.30729.6161           C:\Windows\WinSxS\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57\msvcm90.dll
+[04:19:21] NeroVision 0x68310000  6.30.7601.18980          C:\Windows\System32\msxml6.dll
+[04:19:21] NeroVision 0x68470000  6.1.7600.16385           C:\Windows\SysWOW64\odbcint.dll
+[04:19:21] NeroVision 0x684B0000  6.1.7601.17514           C:\Windows\SysWOW64\ODBC32.dll
+[04:19:21] NeroVision 0x68540000  6.6.4.0                  C:\Windows\SysWOW64\MFC42.dll
+[04:19:21] NeroVision 0x68660000  6.1.7601.19135           C:\Windows\system32\explorerframe.dll
+[04:19:21] NeroVision 0x687D0000  12.0.7601.17514          C:\Windows\system32\WMVCore.DLL
+[04:19:21] NeroVision 0x68A40000  3.0.6920.5470            C:\Windows\Microsoft.NET\Framework\v3.0\WPF\wpfgfx_v0300.dll
+[04:19:21] NeroVision 0x68BF0000  3.0.6920.5470            C:\Windows\assembly\NativeImages_v2.0.50727_32\PresentationCore\553a5a5745a77827aec8bb33ba86a054\PresentationCore.ni.dll
+[04:19:21] NeroVision 0x69B10000  4.20.9876.0              C:\Windows\WinSxS\x86_microsoft.msxml2_6bd6b9abf345378f_4.20.9876.0_none_b7e610287b2b4ea5\msxml4.dll
+[04:19:21] NeroVision 0x69F60000  2.0.50727.5485           C:\Windows\assembly\NativeImages_v2.0.50727_32\mscorlib\38bf604432e1a30c954b2ee40d6a2d1c\mscorlib.ni.dll
+[04:19:21] NeroVision 0x6AA60000  2.0.50727.5485           C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorwks.dll
+[04:19:21] NeroVision 0x6B010000  1.3.1001.0               C:\Windows\system32\XmlLite.dll
+[04:19:21] NeroVision 0x6B0A0000  1.0.0.0                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NeroContentLicenseCheck.Interop.dll
+[04:19:21] NeroVision 0x6B0B0000  6.1.7601.17514           C:\Windows\System32\ntlanman.dll
+[04:19:21] NeroVision 0x6B0D0000  6.1.7601.19091           C:\Windows\SysWOW64\ksproxy.ax
+[04:19:21] NeroVision 0x6B110000  3.0.6920.5470            C:\Windows\assembly\NativeImages_v2.0.50727_32\WindowsBase\e7a02f892147a782f5cbcb11b3251844\WindowsBase.ni.dll
+[04:19:21] NeroVision 0x6B450000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NVResources.dll
+[04:19:21] NeroVision 0x6B6E0000  6.1.7601.17514           C:\Windows\SysWOW64\kswdmcap.ax
+[04:19:21] NeroVision 0x6B700000  6.1.7601.18741           C:\Windows\system32\AUDIOSES.DLL
+[04:19:21] NeroVision 0x6B740000  6.1.7600.16385           C:\Windows\system32\DUI70.dll
+[04:19:21] NeroVision 0x6B800000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\EditingUI.dll
+[04:19:21] NeroVision 0x6B980000  6.2.9200.17251           C:\Windows\system32\WindowsCodecs.dll
+[04:19:21] NeroVision 0x6BAE0000  6.6.7601.17514           C:\Windows\SysWOW64\qdv.dll
+[04:19:21] NeroVision 0x6BB30000  11.0.9600.18212          C:\Program Files (x86)\Internet Explorer\ieproxy.dll
+[04:19:21] NeroVision 0x6BB80000  1.0.0.0                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NeMovieWizard.Interop.dll
+[04:19:21] NeroVision 0x6BB90000  6.1.7600.16385           C:\Windows\system32\shfolder.dll
+[04:19:21] NeroVision 0x6BBA0000  1.0.3.0                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\SolutionExplorerCLI.dll
+[04:19:21] NeroVision 0x6BD00000  6.1.7600.16385           C:\Windows\System32\DAVHLPR.dll
+[04:19:21] NeroVision 0x6BD10000  6.1.7600.16385           C:\Windows\System32\drprov.dll
+[04:19:21] NeroVision 0x6BD20000  6.1.7600.16385           C:\Windows\system32\SAMLIB.dll
+[04:19:21] NeroVision 0x6BD40000  6.1.7600.16385           C:\Windows\system32\IconCodecService.dll
+[04:19:21] NeroVision 0x6BD50000  6.1.7600.16385           C:\Windows\system32\EhStorShell.dll
+[04:19:21] NeroVision 0x6BD90000  3.10.0.0                 C:\Windows\system32\msls31.dll
+[04:19:21] NeroVision 0x6BDD0000  6.1.7601.18984           C:\Program Files (x86)\Common Files\microsoft shared\ink\tiptsf.dll
+[04:19:21] NeroVision 0x6BE30000  6.1.7600.16385           C:\Windows\system32\MSACM32.dll
+[04:19:21] NeroVision 0x6BE50000  6.1.7601.17514           C:\Windows\system32\wdmaud.drv
+[04:19:21] NeroVision 0x6BE80000  6.1.7601.17514           C:\Windows\system32\MMDevAPI.DLL
+[04:19:21] NeroVision 0x6BEC0000  6.2.9200.16570           C:\Windows\SysWOW64\d3d11.dll
+[04:19:21] NeroVision 0x6C040000  6.6.7601.19091           C:\Windows\system32\QUARTZ.dll
+[04:19:21] NeroVision 0x6CDD0000  6.6.7601.19091           C:\Windows\SysWOW64\devenum.dll
+[04:19:21] NeroVision 0x6CDF0000  6.1.7601.17755           C:\Windows\system32\ntshrui.dll
+[04:19:21] NeroVision 0x6CE60000  2.0.50727.5467           C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorjit.dll
+[04:19:21] NeroVision 0x6CEC0000  0.0.0.0                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NeEffect.Interop.dll
+[04:19:21] NeroVision 0x6CED0000  0.0.0.0                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\el-GR\NVResources.resources.dll
+[04:19:21] NeroVision 0x6CEF0000  0.0.0.0                  C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NeEditingEngine.Interop.dll
+[04:19:21] NeroVision 0x6CF10000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\AssetsManager.dll
+[04:19:21] NeroVision 0x6CF40000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\Editing.dll
+[04:19:21] NeroVision 0x6CFB0000  12.0.7601.19091          C:\Windows\System32\MFPlat.DLL
+[04:19:21] NeroVision 0x6D010000  6.5.0.2284               C:\Windows\System32\ATL.DLL
+[04:19:21] NeroVision 0x6D030000  6.1.7600.16385           C:\Windows\system32\MLANG.dll
+[04:19:21] NeroVision 0x6D070000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\UICommon.dll
+[04:19:21] NeroVision 0x6D0A0000  4.0.30319.34209          C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll
+[04:19:21] NeroVision 0x6D120000  8.0.50727.6195           C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_d09154e044272b9a\msvcm80.dll
+[04:19:21] NeroVision 0x6D220000  8.0.50727.6195           C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_d09154e044272b9a\MSVCR80.dll
+[04:19:21] NeroVision 0x6D940000  6.2.9200.16492           C:\Windows\system32\api-ms-win-downlevel-shell32-l1-1-0.dll
+[04:19:21] NeroVision 0x6D950000  8.0.50727.6195           C:\Windows\WinSxS\x86_microsoft.vc80.atl_1fc8b3b9a1e18e3b_8.0.50727.6195_none_d1cb102c435421de\ATL80.DLL
+[04:19:21] NeroVision 0x6D9E0000  12.0.7600.16385          C:\Windows\system32\WMASF.DLL
+[04:19:21] NeroVision 0x6DA30000  6.1.7600.16385           C:\Windows\SysWOW64\vidcap.ax
+[04:19:21] NeroVision 0x6DA40000  6.2.9200.16492           C:\Windows\SysWOW64\d3d10_1core.dll
+[04:19:21] NeroVision 0x6DA90000  4.0.40305.0              C:\Windows\SYSTEM32\MSCOREE.DLL
+[04:19:21] NeroVision 0x6DB20000  6.1.7600.16385           C:\Windows\system32\DUser.dll
+[04:19:21] NeroVision 0x6DB50000  6.1.7601.19061           C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.19061_none_72d6d48d86649709\gdiplus.dll
+[04:19:21] NeroVision 0x6DD00000  6.1.7600.16385           C:\Windows\system32\midimap.dll
+[04:19:21] NeroVision 0x6DD10000  7.0.8.100                C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NVUtilities.dll
+[04:19:21] NeroVision 0x6DE40000  6.1.7601.17676           C:\Windows\system32\OLEACC.dll
+[04:19:21] NeroVision 0x6DE80000  6.1.7600.16385           C:\Windows\system32\msacm32.drv
+[04:19:21] NeroVision 0x6DF60000  5.0.7600.16385           C:\Windows\system32\msiltcfg.dll
+[04:19:21] NeroVision 0x6E050000  6.1.7600.16385           C:\Windows\system32\AVRT.dll
+[04:19:21] NeroVision 0x6E060000  2.0.50727.5483           C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorsec.dll
+[04:19:21] NeroVision 0x6E080000  6.2.9200.16492           C:\Windows\SysWOW64\d3d10.dll
+[04:19:21] NeroVision 0x6E1F0000  6.1.7601.17514           C:\Windows\system32\WINSPOOL.DRV
+[04:19:21] NeroVision 0x712C0000  6.1.7600.16385           C:\Windows\system32\ntmarta.dll
+[04:19:21] NeroVision 0x712F0000  6.1.7600.16385           C:\Windows\system32\POWRPROF.dll
+[04:19:21] NeroVision 0x71540000  6.1.7601.19091           C:\Windows\system32\ksuser.dll
+[04:19:21] NeroVision 0x71580000  6.6.7601.17514           C:\Windows\system32\msdmo.dll
+[04:19:21] NeroVision 0x71590000  6.1.7601.17514           C:\Windows\system32\MSVFW32.dll
+[04:19:21] NeroVision 0x71690000  5.0.7601.18896           C:\Windows\system32\msi.dll
+[04:19:21] NeroVision 0x718E0000  9.0.30729.6161           C:\Windows\WinSxS\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57\MSVCR90.dll
+[04:19:21] NeroVision 0x71990000  6.2.9200.16492           C:\Windows\SysWOW64\dxgi.dll
+[04:19:21] NeroVision 0x719E0000  6.1.7600.16385           C:\Windows\system32\OPENGL32.dll
+[04:19:21] NeroVision 0x71BB0000  7.0.7601.17514           C:\Windows\system32\PROPSYS.dll
+[04:19:21] NeroVision 0x71CE0000  6.1.7601.17514           C:\Windows\SysWOW64\thumbcache.dll
+[04:19:21] NeroVision 0x71D10000  6.2.9200.16492           C:\Windows\system32\api-ms-win-downlevel-shlwapi-l2-1-0.dll
+[04:19:21] NeroVision 0x71D30000  6.1.7600.16385           C:\Windows\system32\slc.dll
+[04:19:21] NeroVision 0x71D40000  6.1.7600.16385           C:\Windows\system32\winbrand.dll
+[04:19:21] NeroVision 0x71D50000  6.1.7601.19012           C:\Windows\SysWOW64\bcryptprimitives.dll
+[04:19:21] NeroVision 0x71D90000  6.2.9200.16492           C:\Windows\SysWOW64\d3d10core.dll
+[04:19:21] NeroVision 0x71DD0000  6.1.7601.17514           C:\Windows\SysWOW64\dxdiagn.dll
+[04:19:21] NeroVision 0x71E10000  5.0.0.0                  C:\Windows\system32\RICHED20.dll
+[04:19:21] NeroVision 0x71E90000  8.0.50727.6195           C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_d09154e044272b9a\MSVCP80.dll
+[04:19:21] NeroVision 0x71F20000  6.1.7600.16385           C:\Windows\system32\NTDSAPI.dll
+[04:19:21] NeroVision 0x71F40000  6.1.7601.17514           C:\Windows\system32\wbem\fastprox.dll
+[04:19:21] NeroVision 0x71FE0000  6.1.7600.16385           C:\Windows\system32\wbem\wbemsvc.dll
+[04:19:21] NeroVision 0x72010000  6.1.7601.17514           C:\Windows\system32\SXS.DLL
+[04:19:21] NeroVision 0x72070000  6.1.7600.16385           C:\Windows\system32\wbem\wbemprox.dll
+[04:19:21] NeroVision 0x72080000  6.1.7601.17514           C:\Windows\system32\wbemcomn.dll
+[04:19:21] NeroVision 0x723E0000  6.1.7601.18540           C:\Windows\System32\WINSTA.dll
+[04:19:21] NeroVision 0x72670000  6.1.7601.17514           C:\Windows\system32\RpcRtRemote.dll
+[04:19:21] NeroVision 0x72680000  6.1.7601.17514           C:\Windows\system32\SAMCLI.DLL
+[04:19:21] NeroVision 0x729B0000  6.2.9200.16492           C:\Windows\system32\api-ms-win-downlevel-advapi32-l2-1-0.dll
+[04:19:21] NeroVision 0x72A10000  6.1.7601.17514           C:\Windows\system32\wkscli.dll
+[04:19:21] NeroVision 0x72A20000  6.1.7601.17514           C:\Windows\system32\srvcli.dll
+[04:19:21] NeroVision 0x72A40000  6.1.7601.17514           C:\Windows\system32\netutils.dll
+[04:19:21] NeroVision 0x72A50000  6.1.7601.17887           C:\Windows\system32\NETAPI32.dll
+[04:19:21] NeroVision 0x72A70000  6.1.7601.19135           C:\Windows\System32\Secur32.dll
+[04:19:21] NeroVision 0x72E00000  6.1.7600.16385           C:\Windows\system32\rsaenh.dll
+[04:19:21] NeroVision 0x72E40000  6.1.7601.18741           C:\Windows\system32\CRYPTSP.dll
+[04:19:21] NeroVision 0x731A0000  6.1.7601.18837           C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\COMCTL32.dll
+[04:19:21] NeroVision 0x73340000  6.1.7600.16385           C:\Windows\system32\VERSION.dll
+[04:19:21] NeroVision 0x733F0000  6.1.7600.16385           C:\Windows\system32\WINNSI.DLL
+[04:19:21] NeroVision 0x73400000  6.1.7601.17514           C:\Windows\system32\IPHLPAPI.DLL
+[04:19:21] NeroVision 0x73490000  6.1.7601.17725           C:\Windows\system32\webio.dll
+[04:19:21] NeroVision 0x734E0000  6.1.7601.17514           C:\Windows\system32\WINHTTP.dll
+[04:19:21] NeroVision 0x735E0000  6.1.7600.16385           C:\Windows\system32\WSOCK32.dll
+[04:19:21] NeroVision 0x737B0000  6.1.7600.16385           C:\Windows\system32\MPR.dll
+[04:19:21] NeroVision 0x737D0000  6.1.7601.18839           C:\Windows\system32\cryptnet.dll
+[04:19:21] NeroVision 0x738A0000  6.1.7600.16385           C:\Windows\system32\uxtheme.dll
+[04:19:21] NeroVision 0x73AF0000  6.1.7600.16385           C:\Windows\system32\SensApi.dll
+[04:19:21] NeroVision 0x73B00000  6.1.7600.16385           C:\Windows\system32\bcrypt.dll
+[04:19:21] NeroVision 0x73B20000  6.1.7601.19135           C:\Windows\system32\ncrypt.dll
+[04:19:21] NeroVision 0x73B60000  6.2.9200.16492           C:\Windows\SysWOW64\d3d10_1.dll
+[04:19:21] NeroVision 0x73B90000  6.1.7600.16385           C:\Windows\system32\GLU32.dll
+[04:19:21] NeroVision 0x73BC0000  6.1.7601.17514           C:\Windows\system32\FAULTREP.DLL
+[04:19:21] NeroVision 0x73C30000  6.1.7600.16385           C:\Windows\system32\GPAPI.dll
+[04:19:21] NeroVision 0x73C50000  6.1.7600.16385           C:\Windows\system32\MSIMG32.dll
+[04:19:21] NeroVision 0x73C60000  6.1.7601.17514           C:\Windows\system32\RICHED32.DLL
+[04:19:21] NeroVision 0x73C70000  8.0.50727.6195           C:\Windows\WinSxS\x86_microsoft.vc80.mfc_1fc8b3b9a1e18e3b_8.0.50727.6195_none_cbf5e994470a1a8f\MFC80U.DLL
+[04:19:21] NeroVision 0x73D80000  6.1.7601.17514           C:\Windows\system32\dbghelp.dll
+[04:19:21] NeroVision 0x73E70000  6.1.7601.19050           C:\Windows\system32\apphelp.dll
+[04:19:21] NeroVision 0x73EE0000  6.1.7601.17514           C:\Windows\system32\d3d9.dll
+[04:19:21] NeroVision 0x740B0000  6.1.7600.16385           C:\Windows\system32\DDRAW.dll
+[04:19:21] NeroVision 0x74250000  6.1.7601.17514           C:\Windows\system32\WINMM.dll
+[04:19:21] NeroVision 0x74E10000  6.1.7600.16385           C:\Windows\system32\d3d8thk.dll
+[04:19:21] NeroVision 0x74E20000  6.1.7601.18985           C:\Windows\system32\DCIMAN32.dll
+[04:19:21] NeroVision 0x74E30000  6.1.7601.18917           C:\Windows\system32\dwmapi.dll
+[04:19:21] NeroVision 0x75090000  6.1.7601.19135           C:\Windows\syswow64\CRYPTBASE.dll
+[04:19:21] NeroVision 0x750A0000  6.1.7601.19135           C:\Windows\syswow64\SspiCli.dll
+[04:19:21] NeroVision 0x75100000  6.1.8638.17744           C:\Windows\syswow64\msvcrt.dll
+[04:19:21] NeroVision 0x751B0000  6.1.7601.19131           C:\Windows\syswow64\ole32.dll
+[04:19:21] NeroVision 0x75310000  6.1.7601.17514           C:\Windows\syswow64\MSASN1.dll
+[04:19:21] NeroVision 0x75320000  11.0.9600.18212          C:\Windows\syswow64\urlmon.dll
+[04:19:21] NeroVision 0x75470000  6.1.7600.16385           C:\Windows\syswow64\profapi.dll
+[04:19:21] NeroVision 0x75480000  6.2.9200.16492           C:\Windows\syswow64\api-ms-win-downlevel-advapi32-l1-1-0.dll
+[04:19:21] NeroVision 0x75490000  6.1.7601.19135           C:\Windows\syswow64\KERNELBASE.dll
+[04:19:21] NeroVision 0x754E0000  6.1.7600.16385           C:\Windows\syswow64\PSAPI.DLL
+[04:19:21] NeroVision 0x754F0000  6.1.7601.17514           C:\Windows\syswow64\SETUPAPI.dll
+[04:19:21] NeroVision 0x75690000  6.2.9200.16492           C:\Windows\syswow64\api-ms-win-downlevel-normaliz-l1-1-0.dll
+[04:19:21] NeroVision 0x756A0000  6.1.7601.18985           C:\Windows\syswow64\LPK.dll
+[04:19:21] NeroVision 0x756B0000  6.2.9200.16492           C:\Windows\syswow64\api-ms-win-downlevel-ole32-l1-1-0.dll
+[04:19:21] NeroVision 0x756C0000  6.1.7601.17514           C:\Windows\syswow64\COMDLG32.dll
+[04:19:21] NeroVision 0x75740000  6.1.7601.18288           C:\Windows\syswow64\imagehlp.dll
+[04:19:21] NeroVision 0x75770000  11.0.9600.18212          C:\Windows\syswow64\iertutil.dll
+[04:19:21] NeroVision 0x759B0000  6.1.7601.18839           C:\Windows\syswow64\CRYPT32.dll
+[04:19:21] NeroVision 0x75AE0000  6.1.7601.17514           C:\Windows\syswow64\SHLWAPI.dll
+[04:19:21] NeroVision 0x75B40000  6.1.7601.17621           C:\Windows\syswow64\CFGMGR32.dll
+[04:19:21] NeroVision 0x75B70000  6.1.7601.17514           C:\Windows\syswow64\IMM32.dll
+[04:19:21] NeroVision 0x75BD0000  6.1.7601.19135           C:\Windows\syswow64\ADVAPI32.dll
+[04:19:21] NeroVision 0x75C80000  1.626.7601.19054         C:\Windows\syswow64\USP10.dll
+[04:19:21] NeroVision 0x75D20000  6.1.7600.16385           C:\Windows\syswow64\normaliz.DLL
+[04:19:21] NeroVision 0x75D30000  6.1.7601.17514           C:\Windows\syswow64\WS2_32.dll
+[04:19:21] NeroVision 0x75D70000  6.1.7601.17514           C:\Windows\syswow64\USERENV.dll
+[04:19:21] NeroVision 0x75D90000  6.1.7601.19135           C:\Windows\syswow64\SHELL32.dll
+[04:19:21] NeroVision 0x76A40000  11.0.9600.18205          C:\Windows\syswow64\WININET.dll
+[04:19:21] NeroVision 0x76C50000  6.1.7600.16385           C:\Windows\syswow64\CLBCatQ.DLL
+[04:19:21] NeroVision 0x76CE0000  6.1.7601.17514           C:\Windows\syswow64\WLDAP32.dll
+[04:19:21] NeroVision 0x76D30000  6.1.7601.19091           C:\Windows\syswow64\GDI32.dll
+[04:19:21] NeroVision 0x76DC0000  6.1.7601.19135           C:\Windows\syswow64\kernel32.dll
+[04:19:21] NeroVision 0x76ED0000  6.1.7601.18839           C:\Windows\syswow64\WINTRUST.dll
+[04:19:21] NeroVision 0x76F00000  6.1.7601.19135           C:\Windows\syswow64\RPCRT4.dll
+[04:19:21] NeroVision 0x77080000  6.2.9200.16492           C:\Windows\syswow64\api-ms-win-downlevel-user32-l1-1-0.dll
+[04:19:21] NeroVision 0x77090000  6.2.9200.16492           C:\Windows\syswow64\api-ms-win-downlevel-version-l1-1-0.dll
+[04:19:21] NeroVision 0x770A0000  6.1.7601.18679           C:\Windows\syswow64\OLEAUT32.dll
+[04:19:21] NeroVision 0x77130000  6.1.7601.17621           C:\Windows\syswow64\DEVOBJ.dll
+[04:19:21] NeroVision 0x77150000  6.1.7600.16385           C:\Windows\syswow64\NSI.dll
+[04:19:21] NeroVision 0x77160000  6.1.7601.18869           C:\Windows\SysWOW64\sechost.dll
+[04:19:21] NeroVision 0x77180000  6.1.7601.19061           C:\Windows\syswow64\USER32.dll
+[04:19:21] NeroVision 0x77280000  6.1.7601.18731           C:\Windows\syswow64\MSCTF.dll
+[04:19:21] NeroVision 0x77720000  6.2.9200.16492           C:\Windows\syswow64\api-ms-win-downlevel-shlwapi-l1-1-0.dll
+[04:19:21] NeroVision 0x77750000  6.1.7601.19135           C:\Windows\SysWOW64\ntdll.dll
+[04:19:21] NeroVision Book type: (N/A)
+[04:19:21] NeroVision 9X03-016C-MXEX-4536-T0L7-2W2T-****-****
+[04:19:21] NeroVision 1C00-8014-9880-2000-408M-****-****
+[04:19:21] NeroVision 1K00-6035-0593-5A40-37K0-****-****
+[04:19:21] NeroVision 4C00-9060-18X0-29AC-4155-****-****
+[04:19:21] NeroVision 4EC0-3CX9-18X3-X3A1-EMAC-****-****
+[04:19:21] NeroVision 9M0C-0190-4Z3K-M008-TM94-P39K-****-****
+[04:19:21] NeroVision KK00-61E5-1KC2-2513-AC24-****-****
+[04:19:21] NeroVision 1E11-MX21-9805-8188-AX81-****-****
+[04:19:21] NeroVision 1E60-CA7C-18E3-X466-6870-****-****
+[04:19:21] NeroVision 1E90-AAA3-1803-9KK1-590K-****-****
+[04:19:21] NeroVision 1EX1-AM7C-188X-2069-K93K-****-****
+[04:19:21] NeroVision 4E31-6MM9-9895-XE4X-K48C-****-****
+[04:19:21] NeroVision 4E91-6M7X-985C-X832-6469-****-****
+[04:19:21] NeroVision 4EE0-XC79-19C9-04X2-6C95-****-****
+[04:19:21] NeroVision Windows 7 6.1
+[04:19:21] NeroVision AMD64
+[04:19:21] NeroVision Wow64Process
+[04:19:21] NeroVision WinAspi: -
+[04:19:21] NeroVision NT-SPTI used
+[04:19:21] NeroVision Nero API version: 10.0.9.100
+[04:19:21] NeroVision Using interface version: 10.0.0.0
+[04:19:21] NeroVision Installed in: C:\Program Files (x86)\Nero\Nero 10\Nero Vision\NeroAPIFiles\
+[04:19:21] NeroVision Application: Nero\NeroVision
+[04:19:21] NeroVision Internal Version: 10,0,9,100
+[04:19:21] NeroVision Recorder:             <MATSHITA DVD-RAM UJ8A0AS>Version: 1.00 - HA 1 TA 0 - 10.0.9.100
+[04:19:21] NeroVision  Adapter driver:      <Serial ATA>              HA 1
+[04:19:21] NeroVision  Drive buffer  :      1024kB
+[04:19:21] NeroVision  Bus Type      :      via Inquiry data
+[04:19:21] NeroVision === Scsi-Device-Map ===
+[04:19:21] NeroVision === CDRom-Device-Map ===
+[04:19:21] NeroVision MATSHITA DVD-RAM UJ8A0AS   E:   CdRom0
+[04:19:21] NeroVision =======================
+[04:19:21] NeroVision AutoRun : 1
+[04:19:21] NeroVision Excluded drive IDs: 
+[04:19:21] NeroVision WriteBufferSize: 83886080 (0) Byte
+[04:19:21] NeroVision BUFE           : 0
+[04:19:21] NeroVision Physical memory     : 3947MB (4042608kB)
+[04:19:21] NeroVision Free physical memory: 2338MB (2394608kB)
+[04:19:21] NeroVision Memory in use       : 40 %
+[04:19:21] NeroVision Uncached PFiles: 0x0
+[04:19:21] NeroVision Global Bus Type: default (0)
+[04:19:21] NeroVision Check supported media : Disabled (0) 
+[04:19:21] NeroVision 12.2.2016
+[04:19:21] NeroVision NeroAPI
+[04:19:21] NeroVision 04:16:30	#1 PHASE 111 File APIProgress.cpp, Line 275
+[04:19:21] NeroVision 	DVD-Video files sorted
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#2 Text 0 File SCSIPTICommands.cpp, Line 464
+[04:19:21] NeroVision 	LockMCN - completed sucessfully for IOCTL_STORAGE_MCN_CONTROL
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#3 ISO9660GEN -11 File Geniso.cpp, Line 3336
+[04:19:21] NeroVision 	First writeable address = 0 (0x00000000)
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#4 PHASE 1 File APIProgress.cpp, Line 259
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#5 PHASE 2 File APIProgress.cpp, Line 259
+[04:19:21] NeroVision 	Creating directories
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#6 Text 0 File compose.cpp, Line 874
+[04:19:21] NeroVision 	GenUDF2: 1 transfer items prepared.
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#7 PHASE 6 File APIProgress.cpp, Line 259
+[04:19:21] NeroVision 	Finishing
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#8 ISO9660GEN -11 File Geniso.cpp, Line 3336
+[04:19:21] NeroVision 	First writeable address = 0 (0x00000000)
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#9 PHASE 1 File APIProgress.cpp, Line 259
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#10 PHASE 2 File APIProgress.cpp, Line 259
+[04:19:21] NeroVision 	Creating directories
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#11 Text 0 File Burncd.cpp, Line 3567
+[04:19:21] NeroVision 	Turn on Disc-At-Once, using DVD media
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#12 PHASE 74 File APIProgress.cpp, Line 259
+[04:19:21] NeroVision 	Checking discs
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#13 Text 0 File DlgWaitCD.cpp, Line 314
+[04:19:21] NeroVision 	[E: DVD-RAM UJ8A0AS ] Last possible write address on media:  2297887
+[04:19:21] NeroVision 	Last address to be written:              70575
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#14 Text 0 File DlgWaitCD.cpp, Line 326
+[04:19:21] NeroVision 	[E: DVD-RAM UJ8A0AS ] Write in overburning mode: NO (enabled: CD)
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#15 Text 0 File DlgWaitCD.cpp, Line 2890
+[04:19:21] NeroVision 	Recorder: MATSHITA DVD-RAM UJ8A0AS, Media type: DVD-RW
+[04:19:21] NeroVision 	 Disc Manufacturer ID: <RITEKW> <01>
+[04:19:21] NeroVision 	 Disc Application Code: 64, Disc Physical Code: 214
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#16 Text 0 File DlgWaitCD.cpp, Line 499
+[04:19:21] NeroVision 	[E: DVD-RAM UJ8A0AS ] >>> Protocol of DlgWaitCD activities: <<<
+[04:19:21] NeroVision 	=========================================
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#17 Text 0 File ThreadedTransferInterface.cpp, Line 785
+[04:19:21] NeroVision 	Setup items (after recorder preparation)
+[04:19:21] NeroVision 	 0: TRM_DATA_MODE1 ()
+[04:19:21] NeroVision 	    2 indices, index0 (150) not provided
+[04:19:21] NeroVision 	    original disc pos #0 + 70576 (70576) = #70576/15:41.1
+[04:19:21] NeroVision 	    relocatable, disc pos for caching/writing not required/ required
+[04:19:21] NeroVision 	    -> TRM_DATA_MODE1, 2048, config 0, wanted index0 0 blocks, length 70576 blocks [E: MATSHITA DVD-RAM UJ8A0AS]
+[04:19:21] NeroVision 	--------------------------------------------------------------
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#18 Text 0 File ThreadedTransferInterface.cpp, Line 1001
+[04:19:21] NeroVision 	Prepare [E: MATSHITA DVD-RAM UJ8A0AS] for write in CUE-sheet-DAO
+[04:19:21] NeroVision 	DAO infos:
+[04:19:21] NeroVision 	==========
+[04:19:21] NeroVision 	 MCN: ""
+[04:19:21] NeroVision 	 TOCType: 0x00; Session Closed, disc fixated
+[04:19:21] NeroVision 	 Tracks 1 to 1:                                  Idx 0         Idx 1      Next Trk
+[04:19:21] NeroVision 	   1: TRM_DATA_MODE1, 2048/0x00, FilePos             0             0     144539648, ISRC ""
+[04:19:21] NeroVision 	DAO layout:
+[04:19:21] NeroVision 	===========
+[04:19:21] NeroVision 	 ___Start_|____Track_|_Idx_|_CtrlAdr_|_____Size_|______NWA_|_RecDep__________
+[04:19:21] NeroVision 	        0 |  lead-in |   0 |    0x41 |        0 |        0 | 0x00
+[04:19:21] NeroVision 	        0 |        1 |   0 |    0x41 |        0 |        0 | 0x00
+[04:19:21] NeroVision 	        0 |        1 |   1 |    0x41 |    70576 |        0 | 0x00
+[04:19:21] NeroVision 	    70576 | lead-out |   1 |    0x41 |        0 |        0 | 0x00
+[04:19:21] NeroVision 	MediaType: DVD-RW
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#19 Text 0 File SCSIPTICommands.cpp, Line 251
+[04:19:21] NeroVision 	SPTILockVolume - completed successfully for FSCTL_LOCK_VOLUME
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#20 Text 0 File Burncd.cpp, Line 4277
+[04:19:21] NeroVision 	Caching options: cache CDRom or Network-No, small files-Yes (<32KB)
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#21 PHASE 24 File APIProgress.cpp, Line 275
+[04:19:21] NeroVision 	Caching of files started
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#22 Text 0 File Burncd.cpp, Line 4399
+[04:19:21] NeroVision 	Cache writing successful.
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#23 PHASE 25 File APIProgress.cpp, Line 275
+[04:19:21] NeroVision 	Caching of files completed
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#24 PHASE 36 File APIProgress.cpp, Line 275
+[04:19:21] NeroVision 	Burn process started at 2x (2.770 KB/s)
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#25 Text 0 File ThreadedTransferInterface.cpp, Line 2769
+[04:19:21] NeroVision 	Verifying disc position of item 0 (relocatable, disc pos, no patch infos, orig at #0): write at #0
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#26 Text 0 File DVDMinusRW.cpp, Line 270
+[04:19:21] NeroVision 	Perform 'Quick Format' (type 15h) to set disc in 'Restricted Overwrite Mode'.
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:16:30	#27 PHASE 136 File APIProgress.cpp, Line 275
+[04:19:21] NeroVision 	Quick Format DVD-RW
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:17:38	#28 PHASE 65 File APIProgress.cpp, Line 275
+[04:19:21] NeroVision 	Burn process started
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:17:38	#29 Text 0 File ThreadedTransfer.cpp, Line 273
+[04:19:21] NeroVision 	Pipe memory size 83836800
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:17:38	#30 PHASE 42 File APIProgress.cpp, Line 259
+[04:19:21] NeroVision 	Writing lead-in
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:17:38	#31 Text 0 File CUDFTransferItem2.cpp, Line 718
+[04:19:21] NeroVision 	 
+[04:19:21] NeroVision 	GenUDF2 FS Layout:
+[04:19:21] NeroVision 	=-=-=-=-=-=-=-=-=-=-
+[04:19:21] NeroVision 	    Sectors to be written: 70576
+[04:19:21] NeroVision 	            Session Start: Sector 0
+[04:19:21] NeroVision 	         Volume Structure: Sector [0, 261] (262 Sectors)
+[04:19:21] NeroVision 	                Meta Data: Sector [262, 281] (20 Sectors)
+[04:19:21] NeroVision 	                     Data: Sector [282, 70296] (70015 Sectors)
+[04:19:21] NeroVision 	               After Data: Sector [70297, 70303] (7 Sectors)
+[04:19:21] NeroVision 	            Trailer Track: Sector [70304, 70575] (272 Sectors)
+[04:19:21] NeroVision 	 
+[04:19:21] NeroVision 	GenUDF2 Parameters:
+[04:19:21] NeroVision 	=-=-=-=-=-=-=-=-=-=-
+[04:19:21] NeroVision 	                 PrepTime: 02-12-2016 04:16:30
+[04:19:21] NeroVision 	             UDF Revision: 1.02
+[04:19:21] NeroVision 	       UDF Partition Type: Physical
+[04:19:21] NeroVision 	         UDF Special Mode: DVDVideo
+[04:19:21] NeroVision 	         Bytes per Sector: 2048
+[04:19:21] NeroVision 	            Session Start: 0
+[04:19:21] NeroVision 	 Physical Partition Start: -1
+[04:19:21] NeroVision 	           Total Capacity: 2297888
+[04:19:21] NeroVision 	       Multi Session Mode: Continue
+[04:19:21] NeroVision 	                Disc Type: DVD-RW
+[04:19:21] NeroVision 	                 OS Class: 0
+[04:19:21] NeroVision 	                Volume ID: DVD
+[04:19:21] NeroVision 	     Allow Unicode Labels: 0
+[04:19:21] NeroVision 	      Duplicate Meta Data: 1
+[04:19:21] NeroVision 	             MS Info File: 00000000
+[04:19:21] NeroVision 	        VMS Rollback File: 00000000
+[04:19:21] NeroVision 	        Create ISO bridge: 1
+[04:19:21] NeroVision 	         ECC Block Length: 16
+[04:19:21] NeroVision 	    Sparing Packet Length: 32
+[04:19:21] NeroVision 	     Allocation Unit Size: 32
+[04:19:21] NeroVision 	      Alignment Unit Size: 16
+[04:19:21] NeroVision 	            Make Writable: 0
+[04:19:21] NeroVision 	              Access Type: Read-only
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:17:42	#32 PHASE 77 File APIProgress.cpp, Line 259
+[04:19:21] NeroVision 	Writing tracks
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:18:30	#33 Text 0 File WriterStatus.cpp, Line 244
+[04:19:21] NeroVision 	<E: MATSHITA DVD-RAM UJ8A0AS> start writing Lead-Out at LBA 70576 (113B0h), length 0 blocks
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:18:30	#34 PHASE 43 File APIProgress.cpp, Line 259
+[04:19:21] NeroVision 	Writing lead-out
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:18:30	#35 PHASE 181 File APIProgress.cpp, Line 275
+[04:19:21] NeroVision 	Writing lead-out...
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:19:15	#36 Text 0 File DVDR.cpp, Line 3696
+[04:19:21] NeroVision 	EndDAO: Last written address was 70575 (113AFh)Estimated time for 30mm Borders: 5min 53sec
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:19:15	#37 Text 0 File DVDPlusDualLayer.cpp, Line 1460
+[04:19:21] NeroVision 	SetDriveCaps: Set LAST LBA of layer 1 to 0
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:19:15	#38 PHASE 37 File APIProgress.cpp, Line 275
+[04:19:21] NeroVision 	Burn process completed successfully at 2x (2.770 KB/s)
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:19:15	#39 Text 0 File SCSIPTICommands.cpp, Line 301
+[04:19:21] NeroVision 	SPTIDismountVolume - completed successfully for FSCTL_DISMOUNT_VOLUME
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:19:15	#40 Text 0 File Cdrdrv.cpp, Line 11916
+[04:19:21] NeroVision 	DriveLocker: UnLockVolume completed
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:19:15	#41 Text 0 File SCSIPTICommands.cpp, Line 464
+[04:19:21] NeroVision 	UnLockMCN - completed sucessfully for IOCTL_STORAGE_MCN_CONTROL
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision 04:19:17	#42 PHASE 6 File APIProgress.cpp, Line 259
+[04:19:21] NeroVision 	Finishing
+[04:19:21] NeroVision 	
+[04:19:21] NeroVision Existing drivers:
+[04:19:21] NeroVision Registry Keys:
+[04:19:21] NeroVision HKLM\Software\Microsoft\Windows NT\CurrentVersion\WinLogon
+[04:19:21] ExpressUI  Burn process completed successfully
+[04:19:29] AMCUIBase  Setting 'el-GR' as Nero File Dialog language

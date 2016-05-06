@@ -1,0 +1,110 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Documento senza titolo</title>
+<link href="telosante.css" rel="stylesheet" type="text/css">
+<style>
+body {background-image:url(fontoextras.png)}
+</style>
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<script>
+
+
+var html5_audiotypes={ 
+	"mp3": "audio/mpeg",
+	
+}
+
+function createsoundbite(sound){
+	var html5audio=document.createElement('audio')
+	if (html5audio.canPlayType){ 
+		for (var i=0; i<arguments.length; i++){
+			var sourceel=document.createElement('source')
+			sourceel.setAttribute('src', arguments[i])
+			if (arguments[i].match(/\.(\w+)$/i))
+				sourceel.setAttribute('type', html5_audiotypes[RegExp.$1])
+			html5audio.appendChild(sourceel)
+		}
+		html5audio.load()
+		html5audio.playclip=function(){
+			html5audio.pause()
+			html5audio.currentTime=0
+			html5audio.play()
+		}
+		return html5audio
+	}
+	else{
+		return {playclip:function(){throw new Error("Your browser doesn't support HTML5 audio unfortunately")}}
+	}
+}
+
+
+var mouseoversound=createsoundbite("file:///E|/websl/rollover_1.mp3" )
+var clicksound=createsoundbite("file:///E|/websl/multimedia_button_click_012.mp3" )
+
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('file:///C|/Users/simone/Desktop/websl/backcolour.png')">
+<div id="div1">
+  <blockquote>&nbsp;</blockquote>
+  <table width="733" height="583" border="0">
+    <tbody>
+      <tr>
+        <th height="26" scope="col">&nbsp;</th>
+        <th scope="col">&nbsp;</th>
+      </tr>
+      <tr>
+        <th width="354" height="216" scope="col">&nbsp;</th>
+        <th width="261" scope="col"><video src="file:///C|/Users/simone/Desktop/websl/fodas333.mp4" controls alt=""/>
+       </th>
+      </tr>
+      <tr>
+        <th height="23" scope="col">&nbsp;</th>
+        <th scope="col"><marquee behavior="scroll" ><font color="black"> Credits video for Digital Application</font> </marquee> </th>
+        <th width="104" scope="col">&nbsp;</th>
+      </tr>
+      <tr>
+        <th height="171" scope="col">&nbsp;</th>
+        <th scope="col">
+        <video src="file:///C|/Users/simone/Desktop/websl/introfodas.mp4" controls alt=""/></th>
+        <th scope="col">&nbsp;</th>
+      </tr>
+      <tr>
+        <th height="56" scope="col">&nbsp;</th>
+        <th scope="col"><marquee behavior="scroll" ><font color="black"> Intro video for Digital Application</font> </marquee></th>
+        <th scope="col">&nbsp;</th>
+      </tr>
+      <tr>
+        <th height="75" scope="col"><a href="file:///C|/Users/simone/Desktop/websl/homefinale.html" onMouseOut="MM_swapImgRestore()" onclick="clicksound.playclip()" onMouseOver="MM_swapImage('Image1','','file:///C|/Users/simone/Desktop/websl/backcolour.png',1,mouseoversound1.playclip())"><img src="file:///C|/Users/simone/Desktop/websl/back.png" alt="" width="188" height="71" id="Image1"></a></th>
+        <th scope="col">&nbsp;</th>
+        <th scope="col">&nbsp;</th>
+      </tr>
+    </tbody>
+  </table>
+</div>
+</body>
+</html>
