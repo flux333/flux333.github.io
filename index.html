@@ -1,14 +1,194 @@
-<html> 
-  <head> 
-    <script src="jquery.js"></script> 
-    <script> 
-    $(function(){
-      $("#includedContent").load("./cursor/firstsitepage.html"); 
-    })
-    </script> 
-  </head> 
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>333home</title>
+<link rel="stylesheet" type="text/css" href="2leveltab.css" />
+<style>
+body {background-image:url(fonto.png)}
+</style>
+<script type="text/javascript" src="jquery-1.2.2.pack.js"></script>
 
-  <body> 
-     <div id="includedContent"></div>
-  </body> 
+<style type="text/css">
+
+.ajaxtooltip{
+position: absolute; 
+display: none; 
+width: 300px;
+left: 0;
+top: 0; 
+background: lightyellow;
+border: 2px solid gray;
+border-width: 1px 2px 2px 1px;
+padding: 5px;
+}
+
+</style>
+
+<script type="text/javascript" src="ajaxtooltip.js">
+</script>
+<script>
+
+
+var html5_audiotypes={ 
+	"mp3": "audio/mpeg",
+	
+}
+
+function createsoundbite(sound){
+	var html5audio=document.createElement('audio')
+	if (html5audio.canPlayType){ 
+		for (var i=0; i<arguments.length; i++){
+			var sourceel=document.createElement('source')
+			sourceel.setAttribute('src', arguments[i])
+			if (arguments[i].match(/\.(\w+)$/i))
+				sourceel.setAttribute('type', html5_audiotypes[RegExp.$1])
+			html5audio.appendChild(sourceel)
+		}
+		html5audio.load()
+		html5audio.playclip=function(){
+			html5audio.pause()
+			html5audio.currentTime=0
+			html5audio.play()
+		}
+		return html5audio
+	}
+	else{
+		return {playclip:function(){throw new Error("Your browser doesn't support HTML5 audio unfortunately")}}
+	}
+}
+
+
+var mouseoversound=createsoundbite("rollover_1.mp3" )
+var mouseoversound1=createsoundbite("multimedia_rollover_053.mp3" )
+var clicksound=createsoundbite("multimedia_button_click_012.mp3" )
+
+</script>
+
+<script type="text/javascript" src="2leveltab.js">
+
+</script>
+<style>
+
+   .ttip {border:1px solid black;font-size:12px; layer-background-color:lightyellow;background-color:lightyellow}
+  </style>
+<link href="cursorhomepage.css" rel="stylesheet" type="text/css">
+<script>
+var tip=new Array
+           tip[0]='Photography and Video'
+           tip[1]='Digital art , stickers '
+           tip[2]='Paintings , graffiti , glass engraving'
+           tip[3]='Music'
+           tip[4]='about us,Facebook,Tumblr,e-mail'
+		   
+		   
+     function showtip(current,e,num)
+        {
+         if (document.layers) // Netscape 4.0+
+            {
+             theString="<DIV CLASS='ttip'>"+tip[num]+"</DIV>"
+             document.tooltip.document.write(theString)
+             document.tooltip.document.close()
+             document.tooltip.left=e.pageX+14+'px'
+             document.tooltip.top=e.pageY+2+'px'
+             document.tooltip.visibility="show"
+            }
+         else
+           {
+            if(document.getElementById) // Netscape 6.0+ and Internet Explorer 5.0+
+              {
+               elm=document.getElementById("tooltip")
+               elml=current
+               elm.innerHTML=tip[num]
+               elm.style.height=elml.style.height
+               elm.style.top=parseInt(elml.offsetTop+elml.offsetHeight)+'px'
+               elm.style.left=parseInt(elml.offsetLeft+elml.offsetWidth+10)+'px'
+               elm.style.visibility = "visible"
+              }
+           }
+        }
+function hidetip(){
+if (document.layers) // Netscape 4.0+
+   {
+    document.tooltip.visibility="hidden"
+   }
+else
+  {
+   if(document.getElementById) // Netscape 6.0+ and Internet Explorer 5.0+
+     {
+      elm.style.visibility="hidden"
+     }
+  } 
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+</head>
+<body onLoad="MM_preloadImages('skitso-gia-table-101color.png','skitso-gia-webelefant1.png','skitso-gia-web-3senzalineecolororo.png','skitso-gia-web-4COLORIRIR.png','Senza-titolo-1colororui.png','Senza-titolo-coloririri.png')">
+
+
+
+<div id="tooltip" style="position: absolute ;visibility:hidden;border:1px solid black;font-size:12px;layer-background-color:lightyellow;background-color:lightyellow;padding:4px"></div>
+
+
+
+<div id="div1">
+
+
+<ul id="maintab" class="basictab">
+<li><a href="cursor/firstsitepage.html" onclick="clicksound.playclip()" onMouseover="mouseoversound.playclip()">Home &#215</a></li>
+<li rel=""><a href="cursor/galleryphotos.html" onclick="clicksound.playclip()"  onMouseover="showtip(this,event,'0',mouseoversound.playclip())" onMouseOut="hidetip()">Photos & Videos  &#215;</a></li>
+<li rel=""><a href="cursor/PAINTINGS MENU.html" onclick="clicksound.playclip()" onMouseover="showtip(this,event,'2',mouseoversound.playclip())" onMouseOut="hidetip()">Paintings and engravings &#215;</a></li>
+<li rel=""><a href="cursor/customcursor333.html" onclick="clicksound.playclip()" onMouseover="showtip(this,event,'1',mouseoversound.playclip())" onMouseOut="hidetip()">Digital Stuff &#215;</a></li>
+<li rel=""><a href="cursor/music gallery.html" onclick="clicksound.playclip()" onMouseover="showtip(this,event,'3',mouseoversound.playclip())" onMouseOut="hidetip()">Music &#215;</a></li>
+<li><a href="cursor/contact us gallery.html" onclick="clicksound.playclip()" onMouseover="showtip(this,event,'4'),mouseoversound.playclip()" onMouseOut="hidetip()">Contact us &#215</a></li>
+
+</ul>
+
+
+
+<table width="1238" height="694" border="0">
+  <tbody>
+    <tr><a  onMouseover="showtip(this,event,'0')" onMouseOut="hidetip()">
+      <td width="5" rowspan="2">&nbsp;</td>
+      <td width="210" rowspan="2"><a href="cursor/galleryphotos.html" onMouseOut="MM_swapImgRestore(),hidetip()" onclick="clicksound.playclip()" title="Photografy & Video" onMouseOver="MM_swapImage('Image1','','skitso-gia-table-101color.png',1,mouseoversound1.playclip())"><img src="skitso-gia-table-101sl.png" alt="" width="176" height="336" id="Image1"></a></td>
+      <td width="529" rowspan="2"><a href="cursor/PAINTINGS MENU.html" onMouseOut="MM_swapImgRestore()" title="Painting , Graffiti , Glass Engraving" onclick="clicksound.playclip()" onMouseOver="MM_swapImage('Image2','','skitso-gia-webelefant1.png',1,mouseoversound1.playclip())"><img src="skitso-gia-web-202senzalinee.png" alt="" width="445" height="430" id="Image2"></a></td>
+      <td width="5" rowspan="2">&nbsp;</td>
+      <td width="200"><a href="cursor/customcursor333.html" onMouseOut="MM_swapImgRestore()" onclick="clicksound.playclip()" onMouseOver="MM_swapImage('Image3','','skitso-gia-web-3senzalineecolororo.png',1,mouseoversound1.playclip())" title="Digital Posters , Digital Art ,Stickers"><img src="skitso-gia-web-3senzalinee.png" alt="" width="60" height="147" id="Image3"></a></td>
+      <td width="13" rowspan="2">&nbsp;</td>
+      <td width="168"><a href="cursor/contact us gallery.html" onMouseOut="MM_swapImgRestore()" onclick="clicksound.playclip()" onMouseOver="MM_swapImage('Image4','','skitso-gia-web-4COLORIRIR.png',1,mouseoversound1.playclip())" title="About us,Facebook,Tumblr"><img src="skitso-gia-web-4senzalinee.png" alt="" width="125" height="153" id="Image4"></a></td>
+      <td width="56" rowspan="2">&nbsp;</td>
+    </a>  
+    </tr>
+    <tr>
+      <td><a href="cursor/music gallery.html" onMouseOut="MM_swapImgRestore()" onclick="clicksound.playclip()" title="Music" onMouseOver="MM_swapImage('Image5','','Senza-titolo-1colororui.png',1,mouseoversound1.playclip())"><img src="salvanoi.png" alt="" width="154" height="183" id="Image5"></a></td>
+      <td><a href="extrasgallery.html" onclick="clicksound.playclip()" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','Senza-titolo-coloririri.png',1,mouseoversound1.playclip())"><img src="Senza-titolo-wall.png" alt="" width="176" height="226" id="Image6"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+</div>
+
+
+</body>
 </html>
